@@ -13,6 +13,7 @@ This project demonstrates the practical usage of multi-agent orchestration, secu
 - 🌐 **Streamlit Frontend**: A minimalist and intuitive UI to interact with the backend and generate results in real-time.
 - 🔐 **Secure Configuration**: Environment-based API management using `.env` files.
 - 📊 **LangChain Tracing v2**: Debugging and performance tracing enabled out-of-the-box.
+- 📊 **Speech Recognition**: Enable Voice Input Functionality to the LLMs Models.
 
 ---
 
